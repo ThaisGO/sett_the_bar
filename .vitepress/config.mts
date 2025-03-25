@@ -4,12 +4,12 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Sett's Bar",
   description: "Bar",
+  base: '/docs',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Receitas', link: '/recipies/caipirinha' },
-      { text: 'Diário', link: '/diary/index' },
     ],
 
     sidebar: [
