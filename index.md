@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Receitas 
-      link: /recipes/caipirinha
+      link: /recipes/cachaca/caipirinha
     - theme: alt
       text: API Examples
       link: /api-examples

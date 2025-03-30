@@ -10,7 +10,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Receitas', link: '/recipes/caipirinha' },
+      { text: 'Receitas', link: '/recipes/cachaca/caipirinha' },
     ],
 
     sidebar: [
@@ -23,12 +23,25 @@ export default defineConfig({
           {
             text: 'Receitas',
             collapsed: false,
+
             items: [
-              { text: 'Caipirinha', link: '/recipes/caipirinha'},
-              { text: 'Lagoa Azul', link: '/recipes/lagoazul'},
-              { text: 'Sex on the Beach', link: '/recipes/sexonthebeach'},
-              { text: 'Mojito', link: '/recipes/mojito'},
-            ]
+              { 
+                text: 'Cachaça', 
+                collapsed: true,
+                items: [ 
+                  {text: 'Caipirinha', link: '/recipes/cachaca/caipirinha'}
+                ]
+              },
+
+              { text: 'Vodka', 
+                collapsed: true,
+                items: [ {text: 'Lagoa azul', link: '/recipes/vodka/lagoazul'}]
+              },
+              { text: 'Rum', 
+                collapsed: true,
+                items: [ {text: 'Mojito', link: '/recipes/rum/mojito'}]
+              },
+            ],
           }
         ]
       }

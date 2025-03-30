@@ -1,7 +1,7 @@
 # Caipirinha
 
 <script setup lang="ts">
-    import Bloquote from '../components/bloquote.vue'
+    import Bloquote from '../../components/bloquote.vue'
 </script>
 
 <Bloquote>A Caipirinha é a alma do Brasil em um copo – simples, refrescante e cheia de sabor.</Bloquote>

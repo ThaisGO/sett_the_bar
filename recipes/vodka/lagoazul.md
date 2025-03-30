@@ -1,7 +1,7 @@
 # Lagoa Azul
 
 <script setup lang="ts">
-    import Bloquote from '../components/bloquote.vue'
+    import Bloquote from '../../components/bloquote.vue'
 </script>
 
 <Bloquote>Um drink vibrante e refrescante, com o azul hipnotizante do paraíso em cada gole.</Bloquote>

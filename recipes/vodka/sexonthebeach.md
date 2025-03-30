@@ -1,7 +1,7 @@
 # Sex on the Beach
 
 <script setup lang="ts">
-    import Bloquote from '../components/bloquote.vue'
+    import Bloquote from '../../components/bloquote.vue'
 </script>
 
 <Bloquote>Um clássico tropical, doce, frutado e irresistivelmente refrescante.</Bloquote>
