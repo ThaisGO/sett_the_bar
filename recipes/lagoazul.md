@@ -1,8 +1,10 @@
 # Lagoa Azul
 
-::: tip
-Lagoa Azul: um drink vibrante e refrescante, com o azul hipnotizante do paraíso em cada gole.
-:::
+<script setup lang="ts">
+    import Bloquote from '../components/bloquote.vue'
+</script>
+
+<Bloquote>Um drink vibrante e refrescante, com o azul hipnotizante do paraíso em cada gole.</Bloquote>
 
 
 ![This is an alt text.](https://images.unsplash.com/photo-1551782450-3939704166fc?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "This is a sample image.")

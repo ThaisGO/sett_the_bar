@@ -1,8 +1,10 @@
 # Sex on the Beach
 
-::: tip
-Sex on the Beach: um clássico tropical, doce, frutado e irresistivelmente refrescante.
-:::
+<script setup lang="ts">
+    import Bloquote from '../components/bloquote.vue'
+</script>
+
+<Bloquote>Um clássico tropical, doce, frutado e irresistivelmente refrescante.</Bloquote>
 
 
 ![This is an alt text.](https://i0.wp.com/canaldareceita.com.br/wp-content/uploads/2025/02/SEX-ON-THE-BEACH.jpg?w=1000&ssl=1 "This is a sample image.")

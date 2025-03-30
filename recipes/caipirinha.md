@@ -1,9 +1,10 @@
 # Caipirinha
 
-::: tip
-A Caipirinha é a alma do Brasil em um copo – simples, refrescante e cheia de sabor.
-:::
+<script setup lang="ts">
+    import Bloquote from '../components/bloquote.vue'
+</script>
 
+<Bloquote>A Caipirinha é a alma do Brasil em um copo – simples, refrescante e cheia de sabor.</Bloquote>
 
 ![This is an alt text.](https://images.unsplash.com/photo-1666355704386-93cf5f887404?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "This is a sample image.")
 
