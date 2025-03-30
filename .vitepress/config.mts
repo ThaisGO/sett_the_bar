@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Sett's Bar",
   description: "Bar",
   base: '/',
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
