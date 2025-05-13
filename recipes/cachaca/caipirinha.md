@@ -8,7 +8,7 @@
 
 ![This is an alt text.](https://images.unsplash.com/photo-1666355704386-93cf5f887404?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "This is a sample image.")
 
-### Ingredients
+### Ingredientes
 * 50 ml de Cachaça 
 * 1 Limão Taiti
 * 2 à 4 colheres de bar de açúcar

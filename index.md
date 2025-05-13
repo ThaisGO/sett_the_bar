@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Receitas
-    details: Receitas aprendidas e explicadas ad minha maneira
+    details: Receitas aprendidas e explicadas da minha maneira
   - title: Diario
     details: Alguns pensamentos sobre a jornada de aprendizado sobre bares e drinks e quem sabe mixologia!
   - title: Matérias

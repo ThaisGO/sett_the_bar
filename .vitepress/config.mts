@@ -32,17 +32,23 @@ export default defineConfig({
                   {text: 'Caipirinha', link: '/recipes/cachaca/caipirinha'}
                 ]
               },
-
               { text: 'Vodka', 
                 collapsed: true,
                 items: [ {text: 'Lagoa azul', link: '/recipes/vodka/lagoazul'}]
               },
               { text: 'Rum', 
                 collapsed: true,
-                items: [ {text: 'Mojito', link: '/recipes/rum/mojito'}]
+                items: [ 
+                  {text: 'Mojito', link: '/recipes/rum/mojito'}, 
+                  {text: 'Siciliano Fizz', link: '/recipes/rum/sicilianofizz'},
+                ]
+              },
+              { text: 'Sem Álcool', 
+                collapsed: true,
+                items: [ {text: 'Limonella', link: '/recipes/mocktail/limonella'}]
               },
             ],
-          }
+          },
         ]
       }
     ],
